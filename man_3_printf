@@ -1,9 +1,9 @@
-.TH man 3 "19 June 2017" "0.10" "_printf man page"
+.TH man 3 "14 October, 2022" "0.10" "_printf man page"
 .SH NAME
 .B _printf
 - Formatted output conversion.
 .SH SYNOPSIS
-.B #include "holberton.h"
+.B #include "main.h"
 
 .B int _printf(const char *
 .I format
@@ -66,4 +66,4 @@ _printf("%s, %s %d, %d\\n", weekday, month, day, year);
 .SH BUGS
 No known bugs.
 .SH AUTHOR
-Alexa Orrico, Daniel Ojeda
+David Oluwafemi, Peter Simiyu
