@@ -62,3 +62,4 @@
 * **print_rot13.c** - contains the function ```print_R```, which handles the conversion specifier ```R```
 ## Authors
 [David Oluwafemi](https://github.com/jay-davisphem) | [@oluw4femi](https://twitter.com/oluw4femi)
+[Peter Simiyu](https://github.com/PeterSimiyu) | [@Simiyu01](https://twitter.com/Simiyu01)
